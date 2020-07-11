@@ -8,6 +8,7 @@
 
 Here are some ideas to get you started:
 -->
+love problem solving | mathmatics | puzzle
 
 - [Linkdin](https://www.linkedin.com/in/nakul-bharti-a7b783135/).
 - [codechef](https://www.codechef.com/users/knakul853)
