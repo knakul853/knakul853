@@ -14,10 +14,11 @@ Here are some ideas to get you started:
   </p>
 </details>
 <details><summary>Connect</summary>
-  <p>
-- [Linkdin](https://www.linkedin.com/in/nakul-bharti-a7b783135/).
+  
+- [Linkdin](https://www.linkedin.com/in/nakul-bharti-a7b783135/)
 - [codechef](https://www.codechef.com/users/knakul853)
 - [Twitter](https://twitter.com/knakul853)
 - [Gmail](knakul853@gmail.com)
-  </p>
+- [StopStalk](https://www.stopstalk.com/user/profile/knakul853)
+  </details>
 
