@@ -8,9 +8,16 @@
 
 Here are some ideas to get you started:
 -->
-love problem solving | mathmatics | puzzle
-
+<details><summary>Interest</summary>
+  <p>
+ Problem solving | Mathmatics | Puzzle
+  </p>
+</details>
+<details><summary>Connect</summary>
+  <p>
 - [Linkdin](https://www.linkedin.com/in/nakul-bharti-a7b783135/).
 - [codechef](https://www.codechef.com/users/knakul853)
 - [Twitter](https://twitter.com/knakul853)
+- [Gmail](knakul853@gmail.com)
+  </p>
 
