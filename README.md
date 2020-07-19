@@ -8,6 +8,11 @@
 
 Here are some ideas to get you started:
 -->
+<details><summary>Intro</summary>
+  <p>
+I am currently studying Computer Engineering and I have a huge interest in programming and problem-solving. I love to spend my time doing Competitive programming at sites like Codechef, Hackerrank, Codeforces etc. I have basic knowledge of web development (HTML, CSS, and Javascript).I also have deccent knowledge of data science nad machine learning.
+  </p>
+</details>
 <details><summary>Stats</summary>
   
  - [![Nakul's github stats](https://github-readme-stats.vercel.app/api?username=knakul853)](https://github.com/anuraghazra/github-readme-stats)
