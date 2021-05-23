@@ -15,7 +15,7 @@ I am currently studying Computer Engineering and I have a huge interest in progr
 </details>
 <details><summary>Stats</summary>
   
- - [![Nakul's github stats](https://github-readme-stats.vercel.app/api?username=knakul853)](https://github.com/anuraghazra/github-readme-stats)
+ [![Nakul's github stats](https://github-readme-stats.vercel.app/api?username=knakul853)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 <details><summary>Interest</summary>
