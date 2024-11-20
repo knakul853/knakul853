@@ -1,5 +1,3 @@
----
-
 ### Hi there 👋  
 
 ![](https://dynaimage.cdn.cnn.com/cnn/q_auto,w_727,c_fit/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F191029114612-05-most-famous-paintings-guernica.jpg)  
@@ -68,7 +66,3 @@ I am Manoranjan Kumar Bharti, a passionate software engineer with experience in 
 - [Spendulam on Play Store](https://play.google.com/store/apps/details?id=com.spendulam.budgettracker)  
 
 </details>  
-
----  
-
-Let me know if you'd like any further tweaks!
