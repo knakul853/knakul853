@@ -6,7 +6,7 @@
 
 <details><summary>Intro</summary>
   <p>
-I am Manoranjan Kumar Bharti, a passionate software engineer with experience in developing scalable backend systems, cloud integrations, and cross-platform applications. I enjoy building innovative solutions that drive efficiency and enhance user experience.  
+I am Nakul Kumar Bharti, a passionate software engineer with experience in developing scalable backend systems, cloud integrations, and cross-platform applications. I enjoy building innovative solutions that drive efficiency and enhance user experience.  
   </p>
 </details>  
 
@@ -62,7 +62,5 @@ I am Manoranjan Kumar Bharti, a passionate software engineer with experience in 
   
 - [LinkedIn](https://www.linkedin.com/in/knakul853/)  
 - [GitHub](https://github.com/knakul853)  
-- [Portfolio](https://knakul853.github.io/portfolio/)  
-- [Spendulam on Play Store](https://play.google.com/store/apps/details?id=com.spendulam.budgettracker)  
 
 </details>  
