@@ -5,7 +5,7 @@
 ---
 
 🔎 **About Me:**
-- 🛠️ **Role**: Software Engineer @ **ProjectDiscovery** (platform stability & reliability)
+- 🛠️ **Role**: Software Engineer @ **ProjectDiscovery** (platform stability & reliability) and building @bhartifresh
 - 🌐 **Focus**: Distributed systems, SLO-driven reliability, performance tuning, incident reduction
 - 🐘 **DB**: PostgreSQL first; comfortable with Mongo/MySQL as needed
 - 📈 **Observability**: Grafana, Loki/Prometheus, tracing, alert hygiene
